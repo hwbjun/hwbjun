@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&text=Hwang%20Byeongjun&fontSize=50&fontAlignY=35&desc=AI%20/%20LLM%20Engineer&descSize=20&descAlignY=55&animation=fadeIn)](https://github.com/hwbjun)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&text=Hello!%20Welcome%20to%20my%20Github!&fontSize=40&fontAlignY=35&desc=AI%20/%20LLM%20Engineer&descSize=20&descAlignY=55&animation=fadeIn)](https://github.com/hwbjun)
 
 ## 👋 소개
 
