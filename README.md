@@ -10,7 +10,7 @@
 | | 프로젝트 | 설명 | 주요 기술 | 링크 |
 |---|---------|------|---------|------|
 | 🛡️ | **RISK KILLER** | FDA 규제 문서 6,363건 기반 RAG AI 에이전트 | LlamaIndex, Qdrant, Elasticsearch, GPT-5.4, SSE | [프로젝트 PDF](./docs/fda.pdf) / [라이브 데모](https://export-assistant.com) / [Repo](https://github.com/hwbjun/risk-killer) |
-| 📄 | **사내 문서 AI 에이전트** | 로컬 LLM 기반 완전 로컬 RAG 에이전트 | LangGraph, Qwen 7B QLoRA, ChromaDB | [프로젝트 PDF](./docs/archive.pdf) |
+| 📄 | **사내 문서 AI 에이전트** | 로컬 LLM 기반 완전 로컬 RAG 에이전트 | LangGraph, Qwen 7B QLoRA, ChromaDB | [프로젝트 PDF](./docs/archive.pdf) / [스크린샷](./docs/archive_3.png)|
 | 🏟️ | **K리그 패스 좌표 예측** | LSTM 앙상블 기반 패스 도착 좌표 예측 (상위 5%) | LSTM, 극좌표 변환, 모델 앙상블 | [프로젝트 PDF](./docs/kleague.pdf) |
 | 📊 | **무역 시계열 예측** | Chronos(TimeLLM) 기반 공행성 예측 (상위 11%) | Chronos, ARIMA, Random Forest | [프로젝트 PDF](./docs/trade.pdf) |
 | 🎮 | **VR 어지럼증 진단** | 1D-CNN 기반 자세 불안정성 분류 (정확도 88.7%) | 1D-CNN, Force Plate, 시계열 분석 | [프로젝트 PDF](./docs/vr.pdf) |
